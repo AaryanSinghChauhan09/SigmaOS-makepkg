@@ -3,7 +3,7 @@ name = "SigmaOS-makepkg"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "makepkg component"
+description = "No GitHub description is set; component scope remains unclassified."
 upstream = []
 
 [contract]
